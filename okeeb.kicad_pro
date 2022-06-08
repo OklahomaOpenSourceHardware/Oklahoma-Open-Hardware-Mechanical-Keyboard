@@ -52,7 +52,7 @@
       "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
-        "version": 2
+        "version": 1
       },
       "rule_severities": {
         "annular_width": "error",
@@ -64,7 +64,6 @@
         "drill_out_of_range": "error",
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
-        "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "invalid_outline": "error",
@@ -83,7 +82,6 @@
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
-        "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
         "track_width": "error",
@@ -109,6 +107,10 @@
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.049999999999999996,
         "min_via_diameter": 0.39999999999999997,
+        "solder_mask_clearance": 0.0,
+        "solder_mask_min_width": 0.0,
+        "solder_paste_clearance": 0.0,
+        "solder_paste_margin_ratio": 0.0,
         "use_height_for_length_calcs": true
       },
       "track_widths": [],
@@ -374,8 +376,11 @@
   "schematic": {
     "annotate_start_num": 0,
     "drawing": {
+      "default_bus_thickness": 12.0,
+      "default_junction_size": 36.0,
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
+      "default_wire_thickness": 6.0,
       "field_names": [],
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
@@ -383,7 +388,7 @@
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
-      "label_size_ratio": 0.25,
+      "label_size_ratio": 0.08,
       "pin_symbol_size": 25.0,
       "text_offset_ratio": 0.08
     },
