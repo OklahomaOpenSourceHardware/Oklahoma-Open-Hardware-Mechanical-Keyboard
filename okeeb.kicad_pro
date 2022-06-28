@@ -366,7 +366,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "okeeb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

@@ -1,0 +1,12 @@
+### Missing 3D models - created on 2022-06-15 20:21
+### Printed by checking_3D_models plugin
+Board file: C:\Users\Loki-VR\Documents\okeeb\okeeb.kicad_pcb
+3D missing models written to:
+C:\Users\Loki-VR\Documents\okeeb\okeeb_missing3Dmodels.txt
+-------
+('SW1', 'C:\\Program Files\\KiCad\\6.0\\share\\kicad\\3dmodels\\Button_Switch_SMD.3dshapes\\SW_PUSH_6mm_H9.5mm.wrl')
+('Y1', 'C:\\Program Files\\KiCad\\6.0\\share\\kicad\\3dmodels\\Crystal.3dshapes\\Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering.wrl')
+('J1', 'C:\\Program Files\\KiCad\\6.0\\share\\kicad\\3dmodels\\Connector_USB.3dshapes\\USB_Micro-B_Wuerth_629105150521_CircularHoles.wrl')
+-------
+NUM of 3D missing models:3
+checked extensions ['.stp', '.step', '.stpZ']

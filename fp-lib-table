@@ -6,4 +6,5 @@
   (lib (name "Switch_Keyboard_Hotswap_Kailh")(type "KiCad")(uri "${KIPRJMOD}/keyswitch-kicad-library-main/library/footprints/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr ""))
   (lib (name "Switch_Keyboard_Hybrid")(type "KiCad")(uri "${KIPRJMOD}/keyswitch-kicad-library-main/library/footprints/Switch_Keyboard_Hybrid.pretty")(options "")(descr ""))
   (lib (name "Switch_Keyboard_Kailh")(type "KiCad")(uri "${KIPRJMOD}/keyswitch-kicad-library-main/library/footprints/Switch_Keyboard_Kailh.pretty")(options "")(descr ""))
+  (lib (name "promicro")(type "KiCad")(uri "${KIPRJMOD}/ProMicroKiCad-master/promicro.pretty")(options "")(descr ""))
 )
