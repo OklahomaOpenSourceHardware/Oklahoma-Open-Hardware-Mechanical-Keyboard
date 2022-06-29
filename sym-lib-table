@@ -1,3 +1,8 @@
 (sym_lib_table
   (lib (name "promicro")(type "Legacy")(uri "${KIPRJMOD}/ProMicroKiCad-master/promicro_library/promicro.lib")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "AS7341-DLGT")(type "KiCad")(uri "//Rebelo/home/Juniper Garden/Twig/AS7341-DLGT.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-C3-MINI-1")(type "Legacy")(uri "//Rebelo/home/Juniper Garden/Twig/ESP32-C3-MINI-1.lib")(options "")(descr ""))
+  (lib (name "temp-sensor-rescue")(type "Legacy")(uri "//Rebelo/home/Juniper Garden/Twig/temp sensor-rescue.lib")(options "")(descr ""))
+  (lib (name "twig")(type "KiCad")(uri "//Rebelo/home/Juniper Garden/Twig/twig.kicad_sym")(options "")(descr ""))
 )
